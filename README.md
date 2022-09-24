@@ -1,7 +1,5 @@
 # Python
 
-![preview](./.faculdade/codigo.png)
-
 >Questões da Faculdade
 
 Trabalho feito para a faculdade Uninter onde foram feitas 3 questões em python
