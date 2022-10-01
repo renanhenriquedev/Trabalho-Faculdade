@@ -1,5 +1,4 @@
 print('Bem a loja de Renan Henrique Soares Santos')
-print('RU: 4250476')
 valor = float(input('Diga o valor unitário do produto '))
 quantidade = int(input('Diga a quantidade do produto a ser adquirida '))
 calculo = valor * quantidade
