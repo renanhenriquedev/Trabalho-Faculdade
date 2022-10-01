@@ -1,5 +1,4 @@
 print('Bem-Vindo a Pizzaria de Renan Henrique Soares Santos')
-print('RU: 4250476')
 print('--------------Cardápio--------------')
 print('| Código | Descrição   | Pizza Média | Pizza Grande | ')
 print('|   21   | Napolithana |    R$ 20,00 |    R$ 26,00  | ')
