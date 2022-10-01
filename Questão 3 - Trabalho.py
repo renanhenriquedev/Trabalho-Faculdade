@@ -1,5 +1,4 @@
 print('Bem-vindo ao Programa de Feijoada de Renan Henrique Soares Santos')
-print('RU: 4250476')
 print('Menu Volume Feijoada')
 basica = 'b'
 premium = 'p'
